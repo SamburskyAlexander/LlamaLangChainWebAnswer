@@ -1,0 +1,8 @@
+llama-cpp-python==0.2.20
+langchain==0.0.348
+sentence_transformers==2.2.2
+chromadb==0.4.18
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
+pypdf==3.17.2
